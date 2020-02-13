@@ -1,0 +1,3 @@
+1. I’ve found a few BBSs from Wikipedia, The first one is SF Net and it was used at coin-operated computers coffee shops around San Francisco. The second one is Forum 80 which was the first BBs in the UK and it was made by Bill Abney in 1980. The 3rd BBs is Celco 51, this BBs was set up by the secret service as to sting operations to catch hackers. The operation ended with the arrest of six hackers.
+ 
+2. According to archiveteam.org and theregister.co.uk Geocities was saved by the archive team. The team consisted of a lot of people but the most prominent member was Jason Scott because he did a lot of interviews on what the team was doing. To save Geocities they download huge portions of the website. 
